@@ -8,6 +8,7 @@ module.exports = {
   entry: path.join(__dirname, 'src', 'index.tsx'),
   output: {
     path: outputDir,
+    filename: 'app.js',
   },
   resolve: {
     extensions: ['.js', '.ts', '.tsx'],

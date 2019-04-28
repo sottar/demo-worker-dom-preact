@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "preact": "^8.4.2"
+    "preact": "^10.0.0-beta.0"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^2.0.1",
